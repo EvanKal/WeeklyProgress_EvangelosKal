@@ -1,4 +1,4 @@
-# Weekly Progress of Evangelos Kal#
+# Weekly Progress of Evangelos Kal
 ## Week (19th Feb - 24th Feb) ##
 
 TODO
